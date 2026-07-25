@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
         webView.setWebViewClient(new WebViewClient());
 
-        webView.loadUrl("https://pt-im.github.io/Forum/");
+        webView.loadUrl("https://fedpromptly.github.io/forum/");
     }
 
     @Override
