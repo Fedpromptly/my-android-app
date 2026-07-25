@@ -6,7 +6,7 @@
 
     <application
         android:allowBackup="true"
-        android:label="by Fedpromptly"
+        android:label="by Pokejumper"
         android:icon="@drawable/game_controller_icon"
         android:theme="@android:style/Theme.Material.NoActionBar">
 
